@@ -1,2 +1,2 @@
-# Mytra-Clone
+# Myntra-Clone
 e-commerce site
